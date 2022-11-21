@@ -19,11 +19,13 @@ git clone https://github.com/aarontong95/HangmanAI.git
 </pre>
 
 ## Training
+64 GB ram is need for training. Otherwise you can lower the value of FRAC in config.py which is the proportion of the train split
 <pre>
 python train.py
 </pre>
 
 ## Testing
+The successful rate is about 44% in the out of sample testing
 <pre>
 python test.py
 </pre>
@@ -34,6 +36,3 @@ python test.py
 * Hangman Game Enviorment (game.py)
 * Play Hangman Game with the model (palyer.py)
 * More details in Solution.ipynb
-
-## Preformance
-The successful rate is about 45% in the out of sample testing
