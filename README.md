@@ -34,3 +34,6 @@ python test.py
 * Hangman Game Enviorment (game.py)
 * Play Hangman Game with the model (palyer.py)
 * More details in Solution.ipynb
+
+## Preformance
+The successful rate is about 45% in the out of sample testing
