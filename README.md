@@ -1,4 +1,5 @@
 # Solving Hangman Game using Neural Network
+![alt text](https://github.com/aarontong95/HangmanAI/blob/main/doc/hangman.png)
 <br> The solution is inspired by the one of the training approach of [BERT](https://en.wikipedia.org/wiki/BERT_(language_model)) which is MLM(Masked Language Model). It is a fill-in-the-blank task, where a model uses the context words surrounding a mask token to try to predict what the masked word should be. For example:
 ```
 Input Text: Hangman game is so [MASK]
