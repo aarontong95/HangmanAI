@@ -19,7 +19,7 @@ git clone https://github.com/aarontong95/HangmanAI.git
 </pre>
 
 ## Training
-64 GB ram is need for training. Otherwise you can lower the value of FRAC in config.py which is the proportion of the train split
+64 GB ram is needed for training. Otherwise you can lower the value of FRAC in config.py which is the proportion of the train split
 <pre>
 python train.py
 </pre>
