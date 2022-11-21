@@ -1,2 +1,2 @@
 # HangmanAI
-Train a Neural Network to Play Hangman
+Solving Hangman Game using Neural Network
